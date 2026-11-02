@@ -4,3 +4,5 @@
 
 -- Keep the cursor vertically centered at all times
 vim.opt.scrolloff = 999
+
+vim.opt.spelllang = { "en", "et" }
